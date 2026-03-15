@@ -1,1 +1,1 @@
-# second-serve-project
+# SurfWatch — AI-Powered Rip Current Detection System
